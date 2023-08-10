@@ -1,6 +1,4 @@
 devops master
-<<<<<<< HEAD
 aws 
-=======
 java
->>>>>>> refs/remotes/origin/main
+
